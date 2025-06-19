@@ -47,8 +47,6 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 
 ---
 
-## 📸 Captura del dashboard 
-
 ## 📷 Captura del dashboard
 
 ![Dashboard Logístico](Imagen%20Dashboard.JPG)
