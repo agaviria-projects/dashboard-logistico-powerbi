@@ -35,18 +35,9 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 | Power BI      | Visualización de datos                  |
 | MySQL         | Base de datos relacional                 |
 | DAX           | Cálculo de métricas personalizadas       |
-
+| (Opcional) Python | Automatización de carga/exportación de datos |
 
 ---
-## 📁 Estructura del repositorio
-
-` ```bash `
-📦 dashboard-logistico-powerbi/
-├── dashboard_logistico.pbix # Archivo principal de Power BI
-├── modelo_empresa_envios.sql # Script SQL con estructura y datos
-└── README.md # Esta documentación
-` ``` `
-
 ## 🚀 ¿Cómo reproducir el proyecto?
 
 1. Importa el archivo `modelo_empresa_envios.sql` en tu servidor MySQL.
@@ -55,13 +46,15 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 4. ¡Listo! Puedes explorar visualmente los datos y modificar el panel.
 
 ---
+
 ## 📸 Captura del dashboard 
 
 ![Vista del dashboard](capturas/dashboard_vista_general.png)
 
+---
 
 ## 👤 Autor
 
-**Héctor Alejandro Gaviria Marin**  
-📧 agaviria1408@gmail.com  
+**Héctor Alejandro Gaviria Marin **  
+📧 agaviria1408@gmail.com
 💼 Proyecto de portafolio para análisis de datos logísticos  
