@@ -1,5 +1,3 @@
-
-## 📁 Estructura del repositorio
 # 📦 Dashboard Logístico – Ventas, Utilidad y Clientes
 
 Este proyecto muestra un **análisis logístico completo** mediante Power BI conectado a una base de datos MySQL. El panel permite visualizar indicadores clave como ventas, unidades enviadas, utilidad estimada y clasificación de clientes por desempeño.
@@ -40,15 +38,13 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 
 
 ---
-
 ## 📁 Estructura del repositorio
 
-```bash
 📦 dashboard-logistico-powerbi/
-├── dashboard_logistico.pbix         # Archivo principal de Power BI
-├── modelo_empresa_envios.sql        # Script SQL con estructura y datos
-└── README.md                        # Esta documentación
-
+│
+├── dashboard_logistico.pbix # Archivo principal de Power BI
+├── modelo_empresa_envios.sql # Script SQL con estructura y datos
+└── README.md # Esta documentación
 
 ## 🚀 ¿Cómo reproducir el proyecto?
 
@@ -58,19 +54,13 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 4. ¡Listo! Puedes explorar visualmente los datos y modificar el panel.
 
 ---
-## 📸 Vista previa del dashboard
+## 📸 Captura del dashboard 
 
-A continuación, una captura del dashboard logístico creado en Power BI:
+![Vista del dashboard](capturas/dashboard_vista_general.png)
 
-![Dashboard Logístico](Imagen%20Dashboard.JPG)
----
 
 ## 👤 Autor
 
 **Héctor Alejandro Gaviria Marin**  
-📧 agaviria1408@gmail.com
+📧 agaviria1408@gmail.com  
 💼 Proyecto de portafolio para análisis de datos logísticos  
-
-
-
-
