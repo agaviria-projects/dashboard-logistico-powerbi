@@ -45,6 +45,7 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 ├── dashboard_logistico.pbix # Archivo principal de Power BI
 ├── modelo_empresa_envios.sql # Script SQL con estructura y datos
 └── README.md # Esta documentación
+```bash
 
 ## 🚀 ¿Cómo reproducir el proyecto?
 
