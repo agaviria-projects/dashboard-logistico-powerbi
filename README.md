@@ -58,7 +58,11 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 4. ¡Listo! Puedes explorar visualmente los datos y modificar el panel.
 
 ---
+## 📸 Vista previa del dashboard
 
+A continuación, una captura del dashboard logístico creado en Power BI:
+
+![Dashboard Logístico](Imagen%20Dashboard.JPG)
 ---
 
 ## 👤 Autor
