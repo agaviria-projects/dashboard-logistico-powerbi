@@ -49,7 +49,10 @@ Modelo en forma de estrella con relaciones uno-a-muchos:
 
 ## 📸 Captura del dashboard 
 
-![📊Dashboard Logístico](capturas/dashboard_vista_general.jpg)
+## 📷 Captura del dashboard
+
+![Dashboard Logístico](Imagen%20Dashboard.JPG)
+
 
 ---
 
